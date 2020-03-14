@@ -39,7 +39,7 @@ export class UserComponent implements OnInit {
   clickMe() {
     this.auth.getLogout().subscribe(
       (data: any) => {
-        AccessToken.token = '';
+        AuthenticationService.token.access_token = '';
         this.router.navigate(['/home']);
       }, (error) => {
         console.log(error);
