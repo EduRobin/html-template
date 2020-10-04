@@ -1,0 +1,11 @@
+Zadej cislo  a nebo END pro ukonceni
+Zadej cislo  a nebo END pro ukonceni
+Zadej cislo  a nebo END pro ukonceni
+Zadej cislo  a nebo END pro ukonceni
+Zadej cislo  a nebo END pro ukonceni
+Zadej cislo  a nebo END pro ukonceni
+Zadej cislo  a nebo END pro ukonceni
+ArrayList Min Value: 1
+ArrayList Max Value: 4545
+Sum: 20440
+Average: 3406.0
